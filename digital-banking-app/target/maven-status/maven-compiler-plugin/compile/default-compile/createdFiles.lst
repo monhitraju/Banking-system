@@ -1,0 +1,6 @@
+edu\demo\banking\TransferServlet.class
+edu\demo\banking\DashboardServlet.class
+edu\demo\banking\AuthServlet.class
+edu\demo\banking\TransactionsServlet.class
+edu\demo\banking\Db.class
+edu\demo\banking\Web.class
